@@ -62,16 +62,5 @@ This document records the physical computing and network devices used in the sma
 
 This table is a reference to the current network plan. Verify addresses and configuration against the live devices before making operational changes.
 
-## 6. Details to Verify Later
 
-- Exact MikroTik RouterOS version and hardware/firmware details.
-- Exact CPU model for PC 2 and PC 6, if required for a more detailed inventory.
-- RAM type for PC 6.
-- Ethernet adapter speed and operating-system version for each client PC.
-- Final Archer C64 AP configuration and switch-port assignment.
-- Final server storage roles, mounts, and backup plan.
-- Asset labels and switch-port mapping for all connected devices.
 
-## 7. Security and Privacy
-
-Do not publish passwords, private keys, serial numbers, MAC addresses, public IP details, customer information, or unredacted configuration exports. Review screenshots and configuration files before adding them to this public portfolio.
