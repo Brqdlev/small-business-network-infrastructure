@@ -13,15 +13,13 @@ This document records the physical computing and network devices used in the sma
 | PC 3 | AMD Ryzen 3 2200G | 16 GB DDR4 | 240 GB | SATA SSD |
 | PC 4 | AMD Ryzen 3 3200G | 16 GB DDR4 | 240 GB | SATA SSD |
 | PC 5 | AMD Ryzen 3 2200G | 16 GB DDR4 | 240 GB | SATA SSD |
-| PC 6 | AMD Ryzen 3 PRO 2100GE | 16 GB | 240 GB | SATA SSD |
+| PC 6 | AMD Ryzen 3 PRO 2100GE | 16 GB DDR4 | 240 GB | SATA SSD |
 
 **Client environment**
 - Number of shop client PCs: 6
 - Operating system: Windows 10 (as currently reported)
 - Network segment: VLAN 20 — SHOP
 - Bandwidth policy: per-PC Simple Queues configured for 20 Mbps download and 10 Mbps upload
-
-*Note: DDR4 was not explicitly confirmed for PC 6, so its memory type is left unspecified. Confirm each PC's Ethernet adapter speed and exact operating-system version if these details are needed in a later revision.*
 
 ## 3. Virtualization and Storage Server
 
